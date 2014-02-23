@@ -1,0 +1,25 @@
+{
+  "name": "gulp-sterno-manifest",
+  "description": "generate a sterno manifest when deploying your app",
+  "version": "0.0.1",
+  "author": "Lucas Hrabovsky <hrabovsky.lucas@gmail.com> (http://imlucas.com)",
+  "license": "MIT",
+  "homepage": "http://github.com/imlucas/gulp-sterno-manifest",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/imlucas/gulp-sterno-manifest.git"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "gulp-util": "~2.2.14",
+    "through": "~2.3.4"
+  },
+  "keywords": [
+    "gulpplugin"
+  ],
+  "devDependencies": {
+    "mocha": "~1.17.1"
+  }
+}
